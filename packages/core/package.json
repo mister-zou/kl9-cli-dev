@@ -1,6 +1,6 @@
 {
   "name": "@kuaile9-cli-dev/core",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "> TODO: description",
   "author": "zouxin <mister.zou@foxmail.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@kuaile9-cli-dev/utils": "^0.0.5"
+    "@kuaile9-cli-dev/utils": "^0.0.6"
   },
   "gitHead": "91b76f440eabea501d3f2bebcae54d6561a010d8"
 }
