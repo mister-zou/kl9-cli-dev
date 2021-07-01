@@ -1,6 +1,6 @@
 {
   "name": "@kl9-cli-dev/core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "zouxin <mister.zou@foxmail.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@kl9-cli-dev/utils": "^0.0.2"
+    "@kl9-cli-dev/utils": "^0.0.3"
   },
   "gitHead": "e1ca6d2f85c736154a5e1c7e44bff3935f333d43"
 }
