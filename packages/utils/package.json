@@ -1,5 +1,5 @@
 {
-  "name": "@kl9-cli-dev/utils",
+  "name": "@kuaile9-cli-dev/utils",
   "version": "0.0.5",
   "description": "> TODO: description",
   "author": "zouxin <mister.zou@foxmail.com>",
@@ -20,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "13fdc3d1b9adf076467f66b64dcce50e972bd9ef"
+  "gitHead": "91b76f440eabea501d3f2bebcae54d6561a010d8"
 }
